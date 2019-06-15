@@ -1,3 +1,4 @@
+#To run the app first activate the Virtual Enviroment with 'source ./venv/bin/activate' then execute 'python manage.py runserver' (both without single quotes)
 
 BT Real Estate App Requirements
 
